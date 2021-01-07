@@ -1,6 +1,6 @@
-This is a readme file for CSE 801B Final Project
+This is a readme file for CSE-801B Final Project
 
-Topic: 
+Topic:
 	Online Retail Store Data Association Analysis
 
 Team Members:
@@ -9,7 +9,7 @@ Team Members:
 	3. Syed Kashif Kamoonpuri
 	4. Vishal Agarwal
 
-Submitted to:	
+Submitted to:
 	Prof. Imen Zabaar
 
 There are following files in this folder:
