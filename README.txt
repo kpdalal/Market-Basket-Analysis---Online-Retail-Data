@@ -1,4 +1,4 @@
-This is a readme file for CSE-801B Final Project
+This is a readme file for CSE 801B Final Project
 
 Topic:
 	Online Retail Store Data Association Analysis
